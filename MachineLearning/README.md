@@ -7,7 +7,7 @@ Contains mostly R code
 
 Methodologies:
 
--SVM
+- SVM
 - Artificial Neural Networks
 - K-Means Clustering
 - Principle Component Analysis
