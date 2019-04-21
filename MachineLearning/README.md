@@ -8,6 +8,7 @@ Contains mostly R code
 Methodologies:
 
 - Support Vector Machines
+- Logistic Regression
 - Artificial Neural Networks
 - K-Means Clustering
 - Principle Component Analysis
